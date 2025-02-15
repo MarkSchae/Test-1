@@ -19,4 +19,6 @@ Browse through the sections to explore my work.
 ## Contact Information
 
 - example number
+My contact information is example. Trying out a fetch and pull to the local copy.
+
 
